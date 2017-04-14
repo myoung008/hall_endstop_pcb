@@ -1,0 +1,10 @@
+Reference, Value, Footprint, Datasheet
+"U1","AP2204K-5.0TRG1","TO_SOT_Packages_SMD:SOT-23-5","http://www.mouser.com/ds/2/115/AP2204-271479.pdf","",""
+"U3","MCP6L71T-E/OT","TO_SOT_Packages_SMD:SOT-23-5","http://www.mouser.com/ds/2/268/22145a-78244.pdf","",""
+"RV1","22AR100KLFTR","_my:Potentiometer_Trimmer-TT22A","http://www.mouser.com/ds/2/414/22-15981.pdf","",""
+"C1","1uf","Capacitors_SMD:C_0603","","",""
+"C2","2.2uf","Capacitors_SMD:C_0603","","",""
+"R1","300","Resistors_SMD:R_0603","","",""
+"D1","LTST-C190GKT","LEDs:LED_0603","http://www.mouser.com/ds/2/239/Lite-On-LTST-C190GKT-187204.pdf","",""
+"P1","CONN_01X03","Pin_Headers:Pin_Header_Straight_1x03_Pitch1.27mm","","",""
+"U2","DRV5053EAEDBZRQ1","TO_SOT_Packages_SMD:SOT-23","http://www.ti.com/lit/gpn/drv5053-q1","",""
